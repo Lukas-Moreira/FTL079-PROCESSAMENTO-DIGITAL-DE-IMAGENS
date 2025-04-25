@@ -10,7 +10,9 @@ Lá você encontra o projeto de intensidade de pixel, nele estão presente duas 
 
 ---
 
-Autores: Lukas Lujan Moreira (https://github.com/Lukas-Moreira)
-         Thiago Patrick Tavares Costa (https://github.com/Thiagotvr)
+Autores: 
+
+Lukas Lujan Moreira (https://github.com/Lukas-Moreira)
+Thiago Patrick Tavares Costa (https://github.com/Thiagotvr)
 
 Esperamos que este repositório seja útil para suas necessidades. Feedbacks são bem-vindos!
