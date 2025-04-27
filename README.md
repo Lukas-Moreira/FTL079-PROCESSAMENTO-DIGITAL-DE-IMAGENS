@@ -8,9 +8,14 @@ Bem-vindo ao repositório de **PROCESSAMENTO DIGITAL DE IMAGENS** aqui você enc
 
 Lá você encontra o projeto de intensidade de pixel, nele estão presente duas funções **pixVal4e** e **cursorValues4e** além da implementação do código na **main.m** utilizando a imagem girl.jpg.
 
+### Pasta PDI - Projeto 2
+
+Lá você encontra o projeto de resolução de intensidade, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento da imagem `drip-bottle-256.tif`.
+
 ---
 
-Autores: Lukas Lujan Moreira (https://github.com/Lukas-Moreira);
-         Thiago Patrick Tavares Costa (https://github.com/Thiagotvr).
+Autores: 
+- Lukas Lujan Moreira (https://github.com/Lukas-Moreira);
+- Thiago Patrick Tavares Costa (https://github.com/Thiagotvr).
 
 Esperamos que este repositório seja útil para suas necessidades. Feedbacks são bem-vindos!
