@@ -12,6 +12,10 @@ Lá você encontra o projeto de intensidade de pixel, nele estão presente duas 
 
 Lá você encontra o projeto de resolução de intensidade, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento da imagem `drip-bottle-256.tif`.
 
+### Pasta PDI - Projeto 3
+
+Lá você encontra o projeto de equalização de histograma, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento das imagens `hidden-horse.tif`, `rose1024.tif` e `spillway-dark.tif`.
+
 ---
 
 Autores: 
