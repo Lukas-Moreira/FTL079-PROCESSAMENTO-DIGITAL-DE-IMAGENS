@@ -12,14 +12,14 @@ Este projeto foi desenvolvido como parte de um exercício prático de processame
 ---
 
 ## 📁 Estrutura do Projeto
-  - 📁 img 
-      └── drip-bottle-256.tif # Imagem original 
-  - 📁 results 
-      └── drip-bottle-128.tif # Saídas geradas durante o processamento 
-      └── drip-bottle-64.tif 
-      └── ... 
-  - 📁 code  
-      📄 main.m # Código principal
+  - 📁 img
+    - └── drip-bottle-256.tif # Imagem original 
+  - 📁 results
+    - └── drip-bottle-128.tif # Saídas geradas durante o processamento
+    - └── drip-bottle-64.tif
+    - └── ... 
+  - 📁 code
+    - 📄 main.m # Código principal
 ---
 
 ## 🚀 Como Funciona
