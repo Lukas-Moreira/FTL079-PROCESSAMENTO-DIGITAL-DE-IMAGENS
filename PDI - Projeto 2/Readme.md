@@ -51,5 +51,5 @@ O código `main.m` realiza os seguintes passos:
 - A operação `./ 2` realiza a divisão em todos os elementos da matriz.
 - O `imshow(S - 1, [])` exibe a imagem com brilho reduzido.
 - O `saveas(gcf, ...)` salva a imagem com a nova intensidade na pasta results.
-- 
+
 ---
