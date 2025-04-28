@@ -60,4 +60,4 @@ O código `main.m` realiza os seguintes passos:
 
 ## RESULTADOS ALCANÇADOS
 
-![Mosaíco de resultados](/results/drip-bottle-montage.jpg)
+![Mosaíco de resultados](results/drip-bottle-montage.jpg)
