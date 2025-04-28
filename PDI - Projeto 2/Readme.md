@@ -17,9 +17,13 @@ Este projeto foi desenvolvido como parte de um exercício prático de processame
   - 📁 results
     - └── drip-bottle-128.tif # Saídas geradas durante o processamento
     - └── drip-bottle-64.tif
-    - └── ... 
+    - └── ...
+    - └── metrics.csv # Tabela de métrica de cada imagem de resultado
+    - └── drip-bottle-montage.jpg # Imagem para em mosaico para melhor visualização
   - 📁 code
     - 📄 main.m # Código principal
+    - 📄 matrics.m # Retorna as métricas da imagem
+    - 📄 mosaico.py # Monta um mosaico para melhor visualização 
 ---
 
 ## 🚀 Como Funciona
@@ -53,3 +57,7 @@ O código `main.m` realiza os seguintes passos:
 - O `saveas(gcf, ...)` salva a imagem com a nova intensidade na pasta results.
 
 ---
+
+## RESULTADOS ALCANÇADOS
+
+![Mosaíco de resultados](/results/drip-bottle-montage.jpg)
