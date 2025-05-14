@@ -26,7 +26,7 @@ O projeto consiste em criar uma função que adiciona padding's em uma imagem.
 
 ## 🚀 Como Funciona
 
-O código `main.m` realiza os seguintes passos para **cada imagem** da pasta `img`:
+O código `main.m` realiza os seguintes passos para imagem **testpattern1024.tif** da pasta `img`:
 
 1. **Adiciona a pasta src para carregar a função imagePad4e**
 
