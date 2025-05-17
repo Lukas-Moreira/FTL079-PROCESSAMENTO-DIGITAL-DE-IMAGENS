@@ -1,4 +1,4 @@
-# Processamento de Imagens: Equalização de Histograma
+# Processamento de Imagens: Data Aumentation
 
 O projeto consiste em os conceitos de transformação na imagem, para realizar o `data aumentation` das imagens que são de covid.
 
