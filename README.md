@@ -16,6 +16,18 @@ Lá você encontra o projeto de resolução de intensidade, nele está presente 
 
 Lá você encontra o projeto de equalização de histograma, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento das imagens `hidden-horse.tif`, `rose1024.tif` e `spillway-dark.tif`.
 
+### Pasta PDI - Projeto 4
+
+Lá você encontra o projeto de padding, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento da imagem `testpattern1024.tif`.
+
+### Pasta PDI - Projeto 5
+
+Lá você encontra o projeto de data aumentation, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento das imagens da pasta `covid`.
+
+### Pasta PDI - Projeto 6
+
+Lá você encontra o projeto de filtros, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento da imagem `Fig3.37(a).jpg`.
+
 ---
 
 Autores: 
