@@ -1,4 +1,4 @@
-# Processamento de Imagens: Equalização de Histograma
+# Processamento de Imagens: Filtros lineares e não lineares
 
 O projeto consiste em os conceitos de transformação na imagem, para realizar o `Filtros lineares e não lineares` das imagens que são de covid.
 
