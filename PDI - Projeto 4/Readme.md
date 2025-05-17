@@ -1,6 +1,6 @@
-# Processamento de Imagens: Equalização de Histograma
+# Processamento de Imagens: Padding
 
-O projeto consiste em criar uma função que adiciona padding's em uma imagem.
+O projeto consiste em criar uma função que adiciona padding em uma imagem.
 
 ---
 
