@@ -28,6 +28,10 @@ Lá você encontra o projeto de data aumentation, nele está presente a implemen
 
 Lá você encontra o projeto de filtros, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento da imagem `Fig3.37(a).jpg`.
 
+### Pasta PDI - Projeto 7
+
+Lá você encontra o projeto de morfologia, nele está presente a implementação do código na **main.m** que é o responsável por fazer o processamento da imagem `FigP0918(left) (1)`.
+
 ---
 
 Autores: 
