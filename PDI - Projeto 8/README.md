@@ -17,14 +17,14 @@ Também testamos o efeito da tolerância (`delT`) sobre o resultado da segmenta�
 
     ├── main.m # Script principal de execução
     ├── src/
-    │ └── globalThresh.m # Função de limiarização global iterativa
+    │   └── globalThresh.m # Função de limiarização global iterativa
     ├── img/
-    │ └── rice-shaded.tif # Imagem de entrada com iluminação desigual
+    |   └── rice-shaded.tif # Imagem de entrada com iluminação desigual
     └── results/
-    ├── global_Thresh(Default).png
-    ├── global_Thresh(Default).tif
-    ├── global_Thresh(0.0001).png
-    └── global_Thresh(0.0001).tif
+        ├── global_Thresh(Default).png
+        ├── global_Thresh(Default).tif
+        ├── global_Thresh(0.0001).png
+        └── global_Thresh(0.0001).tif
 ---
 
 ## ⚙️ Requisitos
